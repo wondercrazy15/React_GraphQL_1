@@ -1,0 +1,117 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "books": [
+    {
+      "id": 5046214,
+      "title": "Gujarat Tourism",
+      "author": "J.K. Shah",
+      "price": "450"
+    },
+    {
+      "id": 6866289,
+      "title": "Saurastra Tourism",
+      "author": "M.S. Prashad",
+      "price": "500"
+    },
+    {
+      "id": 5355682,
+      "title": "Somanath darshan",
+      "author": "D.R. Vyas",
+      "price": "285"
+    },
+    {
+      "id": 9565435,
+      "title": "Ahemdabad Tourism",
+      "author": "A.D. Sharma",
+      "price": "350"
+    },
+    {
+      "operationName": null,
+      "variables": {},
+      "query": "{\n  books {\n    id\n    title\n    author\n    price\n    __typename\n  }\n}\n",
+      "id": 9565436
+    },
+    {
+      "operationName": null,
+      "variables": {},
+      "query": "{\n  books {\n    id\n    title\n    author\n    price\n    __typename\n  }\n}\n",
+      "id": 9565437
+    },
+    {
+      "operationName": null,
+      "variables": {},
+      "query": "{\n  books {\n    id\n    title\n    author\n    price\n    __typename\n  }\n}\n",
+      "id": 9565438
+    },
+    {
+      "operationName": null,
+      "variables": {},
+      "query": "{\n  books {\n    id\n    title\n    author\n    price\n    __typename\n  }\n}\n",
+      "id": 9565439
+    },
+    {
+      "operationName": null,
+      "variables": {},
+      "query": "{\n  books {\n    id\n    title\n    author\n    price\n    __typename\n  }\n}\n",
+      "id": 9565440
+    },
+    {
+      "operationName": null,
+      "variables": {},
+      "query": "{\n  books {\n    id\n    title\n    author\n    price\n    __typename\n  }\n}\n",
+      "id": 9565441
+    },
+    {
+      "operationName": null,
+      "variables": {},
+      "query": "{\n  books {\n    id\n    title\n    author\n    price\n    __typename\n  }\n}\n",
+      "id": 9565442
+    },
+    {
+      "operationName": null,
+      "variables": {},
+      "query": "{\n  books {\n    id\n    title\n    author\n    price\n    __typename\n  }\n}\n",
+      "id": 9565443
+    },
+    {
+      "operationName": null,
+      "variables": {},
+      "query": "{\n  books {\n    id\n    title\n    author\n    price\n    __typename\n  }\n}\n",
+      "id": 9565444
+    },
+    {
+      "operationName": null,
+      "variables": {},
+      "query": "{\n  books {\n    id\n    title\n    author\n    price\n    __typename\n  }\n}\n",
+      "id": 9565445
+    },
+    {
+      "operationName": null,
+      "variables": {},
+      "query": "{\n  books {\n    id\n    title\n    author\n    price\n    __typename\n  }\n}\n",
+      "id": 9565446
+    },
+    {
+      "operationName": null,
+      "variables": {},
+      "query": "{\n  books {\n    id\n    title\n    author\n    price\n    __typename\n  }\n}\n",
+      "id": 9565447
+    }
+  ]
+}
