@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a556609a-c1d9-4c8b-afe8-f28c40ba9ccd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app" beforeDir="false" afterPath="$PROJECT_DIR$/client-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client-app/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/app/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client-app/app/components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/app/components/Footer/Footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client-app/app/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/app/components/Header/Header.js" afterDir="false" />
@@ -69,6 +71,9 @@
       </list>
     </option>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a556609a-c1d9-4c8b-afe8-f28c40ba9ccd" name="Default Changelist" comment="" />
@@ -76,12 +81,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549881633633</updated>
-      <workItem from="1549881639810" duration="246000" />
+      <workItem from="1549881639810" duration="1067000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="246000" />
+    <option name="totallyTimeSpent" value="1067000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
