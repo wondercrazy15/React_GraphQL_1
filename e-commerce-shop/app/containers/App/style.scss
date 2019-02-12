@@ -1,0 +1,35 @@
+.app-wrapper {
+  margin: 0 auto;
+  display: flex;
+  min-height: 100%;
+  flex-direction: column;
+
+  .header{
+    background: #002bff26;
+    .titleFont{
+      font-size: 35px;
+      font-family: initial;
+      font-weight: 600;
+      font-variant-caps: small-caps;
+      padding: 10px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .headerLogo{
+     width: 150px;
+    height: auto;
+    margin: 0 auto;
+    display: inline;
+    margin: 10px;
+    border: 2px inset;
+    border-radius: 15px;
+
+    }
+  }
+}
+.carousel .slider-wrapper{
+  height: 600px
+}

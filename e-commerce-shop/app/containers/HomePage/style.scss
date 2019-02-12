@@ -1,0 +1,89 @@
+.home-page {
+  
+  h2 {
+    font-size: 1.5em;
+  }
+  .form-head{
+    color: #8c8686;
+  }
+  section {
+    margin: 3em auto;
+
+    &:first-child {
+      margin-top: 0;
+    }
+
+    &.centered {
+      text-align: center;
+    }
+  }
+
+  form {
+    margin-bottom: 1em;
+
+    input {
+      outline: none;
+      border-bottom: 1px dotted #999;
+    }
+  }
+
+  span.at-prefix {
+    color: black;
+    margin-left: 0.4em;
+  }
+  .dropzone .dz-preview .dz-progress{
+    display: none;
+  }
+  .dropzone .dz-preview .dz-remove {
+    font-size: 20px;
+    background: #e574748c;
+    color: red;
+    font-family: initial;
+    font-variant: all-petite-caps;
+}
+.admin-logo-display{
+  display: inline;
+  margin: 10px;
+  border: 5px inset;
+  border-radius: 15px;
+  width: 275px;
+  height: 150px;
+
+}
+.admin-banner-display{
+  max-width: 93%;
+  height: auto;
+  display: inline;
+  margin: 10px;
+  border: 5px inset;
+  border-radius: 15px;
+  min-width: 93%;
+  min-height: 150px;
+  max-height: 150px;
+}
+.admin-title-text{
+  font-size: 35px;
+    font-family: initial;
+    font-weight: 400;
+    font-variant-caps: small-caps;
+    color: #236084b8;
+    padding: 10px;
+    letter-spacing: 3px;
+}
+.paperStyle{
+  padding: 10px;
+    margin: 10px;
+
+}
+.shopHeadTitle {
+  text-transform: uppercase;
+	background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+
+}
+  .border-red{
+  border-color: red !important;
+  color: red !important;
+  }
+}
