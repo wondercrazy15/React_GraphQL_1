@@ -1,6 +1,6 @@
 #  React_GraphQL_1 (E-Commerce Shop)
 
-E-Commerce Shop are very useful Demo for beginners as well as experience developers, in this we  used React, Redux, GraphQL concepts  and Material-UI  better design. 
+E-Commerce Shop are very useful Demo for beginners as well as experience developers, in this we  used React, Redux, GraphQL concepts  and use Material-UI for better design. 
 
 
 ## Project Screenshot Link
